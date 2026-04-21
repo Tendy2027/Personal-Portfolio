@@ -1,5 +1,3 @@
-# Future Interns Portfolio
-
 This is a personal portfolio website template built for the Future Interns internship task.
 
 ## Features
